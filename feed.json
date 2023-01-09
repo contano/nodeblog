@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nodeblog",
+    "description": "",
+    "home_page_url": "https://nodeblog.on.fleek.co",
+    "feed_url": "https://nodeblog.on.fleek.co/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jacek"
+    },
+    "items": [
+        {
+            "id": "https://nodeblog.on.fleek.co/test1.html",
+            "url": "https://nodeblog.on.fleek.co/test1.html",
+            "title": "Test1",
+            "summary": "Test1",
+            "content_html": "<p>Test1</p>",
+            "author": {
+                "name": "Jacek"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-09T18:29:12+01:00",
+            "date_modified": "2023-01-09T18:29:12+01:00"
+        }
+    ]
+}
