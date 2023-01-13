@@ -3,12 +3,42 @@
     <title>nodeblog</title>
     <link href="https://nodeblog.on.fleek.co/feed.xml" rel="self" />
     <link href="https://nodeblog.on.fleek.co" />
-    <updated>2023-01-12T17:05:43+01:00</updated>
+    <updated>2023-01-13T12:36:26+01:00</updated>
     <author>
         <name>Jacek</name>
     </author>
     <id>https://nodeblog.on.fleek.co</id>
 
+    <entry>
+        <title>O mnie</title>
+        <author>
+            <name>Jacek</name>
+        </author>
+        <link href="https://nodeblog.on.fleek.co/o-mnie.html"/>
+        <id>https://nodeblog.on.fleek.co/o-mnie.html</id>
+        <media:content url="https://nodeblog.on.fleek.co/media/posts/9/o-mnie.jpg" medium="image" />
+
+        <updated>2023-01-13T12:36:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nodeblog.on.fleek.co/media/posts/9/o-mnie.jpg" alt="o mnie" />
+                    Cześć, mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nodeblog.on.fleek.co/media/posts/9/o-mnie.jpg" class="type:primaryImage" alt="o mnie" /></p>
+                
+  <p>
+    Cześć,
+  </p>
+
+  <p>
+    mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką kreację i stale rosnące możliwości, wynikające z rozwoju technologicznego. Fascynuje mnie to, jak połączenie sztuki i technologii wpływa na otaczający nas świat w wielu jego wymiarach. Stworzyłem <strong>nodeblog</strong>, aby dzielić się wiedzą i przemyśleniami w tematach, które wciągnęły mnie na dobre :) Znajdziesz tutaj garść moich przemyśleń, poradniki i informacje o projektach, które realizuję. Serdecznie zapraszam Cię do czytania, oglądania, dyskusji i kontaktu.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Czy sprzęt, którym fotografuję, ma znaczenie?</title>
         <author>
