@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://nodeblog.on.fleek.co/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://nodeblog.contano.pl/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://nodeblog.on.fleek.co/</loc>
+<loc>https://nodeblog.contano.pl/</loc>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html</loc>
+<loc>https://nodeblog.contano.pl/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html</loc>
 <lastmod>2023-01-12T10:21:53+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\6/FullFrame-APS-C.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\6/FullFrame-APS-C.jpg</image:loc>
 <image:title><![CDATA[pełna klatka, czy APS-C]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html</loc>
+<loc>https://nodeblog.contano.pl/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html</loc>
 <lastmod>2023-01-12T10:51:38+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\7/sprzet-fotograficzny.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\7/sprzet-fotograficzny.jpg</image:loc>
 <image:title><![CDATA[czy sprzęt fotograficzny ma znaczenie]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/digitalizacja-filmow-przewodnik.html</loc>
+<loc>https://nodeblog.contano.pl/digitalizacja-filmow-przewodnik.html</loc>
 <lastmod>2023-01-11T20:23:05+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\3/digitalizacja-filmow.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\3/digitalizacja-filmow.jpg</image:loc>
 <image:title><![CDATA[digitalizacja filmów]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html</loc>
+<loc>https://nodeblog.contano.pl/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html</loc>
 <lastmod>2023-01-11T17:45:02+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\2/jak-wywolac-film-c-41.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\2/jak-wywolac-film-c-41.jpg</image:loc>
 <image:title><![CDATA[Wywoływanie filmu w procesie C-41]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/jak-wywolac-negatyw-czarno-bialy.html</loc>
+<loc>https://nodeblog.contano.pl/jak-wywolac-negatyw-czarno-bialy.html</loc>
 <lastmod>2023-01-12T17:05:43+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\1/jak-wywolac-fim-czarno-bialy-2.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\1/jak-wywolac-fim-czarno-bialy-2.jpg</image:loc>
 <image:title><![CDATA[wywoływanie negatywu czarno-białego]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html</loc>
+<loc>https://nodeblog.contano.pl/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html</loc>
 <lastmod>2023-01-12T10:03:00+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\5/lustrzanka-czy-bezlusterkowiec.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\5/lustrzanka-czy-bezlusterkowiec.jpg</image:loc>
 <image:title><![CDATA[lustrzanka czy bezlusterkowiec]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/o-mnie.html</loc>
+<loc>https://nodeblog.contano.pl/o-mnie.html</loc>
 <lastmod>2023-01-13T13:06:04+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\9/o-mnie.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\9/o-mnie.jpg</image:loc>
 <image:title><![CDATA[o mnie]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nodeblog.on.fleek.co/obrobka-zdjec-z-perspektywy-filozoficznej.html</loc>
+<loc>https://nodeblog.contano.pl/obrobka-zdjec-z-perspektywy-filozoficznej.html</loc>
 <lastmod>2023-01-12T10:02:13+01:00</lastmod>
 <image:image>
-<image:loc>https://nodeblog.on.fleek.co/media\posts\4/postprodukcja-w-fotografii.jpg</image:loc>
+<image:loc>https://nodeblog.contano.pl/media\posts\4/postprodukcja-w-fotografii.jpg</image:loc>
 <image:title><![CDATA[postprodukcja w fotografii]]></image:title>
 </image:image>
 </url>
