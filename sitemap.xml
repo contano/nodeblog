@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://contano.github.io/nodeblog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://contano.github.io/nodeblog/</loc>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html</loc>
+<lastmod>2023-01-12T10:21:53+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/6/FullFrame-APS-C.jpg</image:loc>
+<image:title><![CDATA[pełna klatka, czy APS-C]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html</loc>
+<lastmod>2023-01-12T10:51:38+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/7/sprzet-fotograficzny.jpg</image:loc>
+<image:title><![CDATA[czy sprzęt fotograficzny ma znaczenie]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/digitalizacja-filmow-przewodnik.html</loc>
+<lastmod>2023-01-11T20:23:05+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/3/digitalizacja-filmow.jpg</image:loc>
+<image:title><![CDATA[digitalizacja filmów]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html</loc>
+<lastmod>2023-01-11T17:45:02+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/2/jak-wywolac-film-c-41.jpg</image:loc>
+<image:title><![CDATA[Wywoływanie filmu w procesie C-41]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/jak-wywolac-negatyw-czarno-bialy.html</loc>
+<lastmod>2023-01-12T17:05:43+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg</image:loc>
+<image:title><![CDATA[wywoływanie negatywu czarno-białego]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html</loc>
+<lastmod>2023-01-12T10:03:00+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg</image:loc>
+<image:title><![CDATA[lustrzanka czy bezlusterkowiec]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/o-mnie.html</loc>
+<lastmod>2023-01-13T13:06:04+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/9/o-mnie.jpg</image:loc>
+<image:title><![CDATA[o mnie]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://contano.github.io/nodeblog/obrobka-zdjec-z-perspektywy-filozoficznej.html</loc>
+<lastmod>2023-01-12T10:02:13+01:00</lastmod>
+<image:image>
+<image:loc>https://contano.github.io/nodeblog/media/posts/4/postprodukcja-w-fotografii.jpg</image:loc>
+<image:title><![CDATA[postprodukcja w fotografii]]></image:title>
+</image:image>
+</url>
+</urlset>
