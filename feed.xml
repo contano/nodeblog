@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>nodeblog</title>
-    <link href="https://contano.github.io/nodeblog/feed.xml" rel="self" />
-    <link href="https://contano.github.io/nodeblog" />
+    <link href="https://nodeblog.contano.xyz/feed.xml" rel="self" />
+    <link href="https://nodeblog.contano.xyz" />
     <updated>2023-01-13T13:06:04+01:00</updated>
     <author>
         <name>Jacek</name>
     </author>
-    <id>https://contano.github.io/nodeblog</id>
+    <id>https://nodeblog.contano.xyz</id>
 
     <entry>
         <title>O mnie</title>
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/o-mnie.html"/>
-        <id>https://contano.github.io/nodeblog/o-mnie.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/9/o-mnie.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/o-mnie.html"/>
+        <id>https://nodeblog.contano.xyz/o-mnie.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/9/o-mnie.jpg" medium="image" />
 
         <updated>2023-01-13T13:06:04+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/9/o-mnie.jpg" alt="o mnie" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/9/o-mnie.jpg" alt="o mnie" />
                     Cześć, mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/9/o-mnie.jpg" class="type:primaryImage" alt="o mnie" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/9/o-mnie.jpg" class="type:primaryImage" alt="o mnie" /></p>
                 
   <p>
     Cześć,
@@ -44,9 +44,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html"/>
-        <id>https://contano.github.io/nodeblog/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/7/sprzet-fotograficzny.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html"/>
+        <id>https://nodeblog.contano.xyz/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/7/sprzet-fotograficzny.jpg" medium="image" />
             <category term="przemyślenia"/>
             <category term="poradniki"/>
             <category term="fotografia cyfrowa"/>
@@ -55,13 +55,13 @@
         <updated>2023-01-12T10:51:38+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/7/sprzet-fotograficzny.jpg" alt="czy sprzęt fotograficzny ma znaczenie" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/7/sprzet-fotograficzny.jpg" alt="czy sprzęt fotograficzny ma znaczenie" />
                     Jest takie powiedzenie, że to nie aparat robi zdjęcia, tylko fotograf. Wielu fotografów traktuje sprzęt w swoich wypowiedziach w&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/7/sprzet-fotograficzny.jpg" class="type:primaryImage" alt="czy sprzęt fotograficzny ma znaczenie" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/7/sprzet-fotograficzny.jpg" class="type:primaryImage" alt="czy sprzęt fotograficzny ma znaczenie" /></p>
                 
   <p>
     Jest takie powiedzenie, że to nie aparat robi zdjęcia, tylko fotograf. Wielu fotografów traktuje sprzęt w swoich wypowiedziach w sposób zupełnie nieistotny. Swego czasu słuchałem wywiadu, w którym fotograf zapytany o sprzęt, zbył pytanie dość nonszalancko, mówiąc, że w ogóle nie za bardzo się w tym temacie orientuje a takie kwestie jak megapiksele są dla niego kompletnie niezrozumiałe i że zasadniczo nie przywiązuje do tych spraw większej wagi. Przeglądając jego stronę internetową zobaczyłem, że zrecenzował Sony A7 III. Co ciekawe, w udzielanym wywiadzie podzielił się informacją, że obecnie używa Sony A9 :) Gdybym miał możliwość, to chętnie bym go spytał, jakiż to miał powód, żeby wymienić A7 III na A9, skoro sprzęt nie ma większego znaczenia ;)
@@ -118,9 +118,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html"/>
-        <id>https://contano.github.io/nodeblog/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/6/FullFrame-APS-C.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html"/>
+        <id>https://nodeblog.contano.xyz/aps-c-to-moj-ulubiony-format-w-swiecie-cyfry.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/6/FullFrame-APS-C.jpg" medium="image" />
             <category term="przemyślenia"/>
             <category term="poradniki"/>
             <category term="fotografia cyfrowa"/>
@@ -128,13 +128,13 @@
         <updated>2023-01-12T10:21:53+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/6/FullFrame-APS-C.jpg" alt="pełna klatka, czy APS-C" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/6/FullFrame-APS-C.jpg" alt="pełna klatka, czy APS-C" />
                     O wyższości większych formatów nad mniejszymi powiedziano już bardzo wiele. W sieci można znaleźć całe mnóstwo materiałów, które mówią&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/6/FullFrame-APS-C.jpg" class="type:primaryImage" alt="pełna klatka, czy APS-C" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/6/FullFrame-APS-C.jpg" class="type:primaryImage" alt="pełna klatka, czy APS-C" /></p>
                 
   <p>
     O wyższości większych formatów nad mniejszymi powiedziano już bardzo wiele. W sieci można znaleźć całe mnóstwo materiałów, które mówią o tym, że generalnie lepiej jest wybrać pełną klatkę niż APS-C, zwłaszcza, gdy aparaty są w zbliżonych cenach. Są takie obszary, w których z technicznego punktu widzenia, przewaga większego formatu nad mniejszym jest oczywista. Porównując matrycę APS-C z matrycą pełnoklatkową o takiej samej rozdzielczości wiemy, że piksele na pełnej klatce będą fizycznie większe a co za tym idzie szum, zwłaszcza na wysokich czułościach, będzie mniejszy na matrycy pełnoklatkowej. Kolejną istotną cechą, poruszaną w tych porównaniach jest to, że na większej matrycy łatwiej jest uzyskać mniejszą głębię ostrości, co ma znaczenie wszędzie tam, gdzie płytka głębia ostrości stanowi ważny element naszych fotografii. Nie oznacza to oczywiście, że na mniejszym formacie nie damy rady osiągnąć równie interesującego efektu bokeh, co na większym.
@@ -191,9 +191,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html"/>
-        <id>https://contano.github.io/nodeblog/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html"/>
+        <id>https://nodeblog.contano.xyz/lustrzanka-czy-bezlusterkowiec-oto-jest-pytanie.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg" medium="image" />
             <category term="przemyślenia"/>
             <category term="poradniki"/>
             <category term="fotografia cyfrowa"/>
@@ -201,13 +201,13 @@
         <updated>2023-01-12T10:03:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg" alt="lustrzanka czy bezlusterkowiec" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg" alt="lustrzanka czy bezlusterkowiec" />
                     Wszelkie napływające z rynku dane wieszczą koniec ery lustrzanek cyfrowych. Czy w takiej sytuacji warto jeszcze myśleć o aparatach&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg" class="type:primaryImage" alt="lustrzanka czy bezlusterkowiec" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/5/lustrzanka-czy-bezlusterkowiec.jpg" class="type:primaryImage" alt="lustrzanka czy bezlusterkowiec" /></p>
                 
   <p>
     Wszelkie napływające z rynku dane wieszczą koniec ery lustrzanek cyfrowych. Czy w takiej sytuacji warto jeszcze myśleć o aparatach z lustrem, czy obiektywach dedykowanych do lustrzanek? Wielu, zwłaszcza początkujących fotografów zadaje sobie to pytanie. W odpowiedziach można usłyszeć, że wszystko co związane jest z aparatami wyposażonymi w lustro nie ma przyszłości i szkoda zawracać sobie tym głowę. Inni z kolei zauważają, że jest to idealny moment na kupno cyfrowej lustrzanki, ponieważ ceny mocno spadają i sprzęt naprawdę wysokiej klasy można nabyć za przysłowiowy bezcen, zwłaszcza ten z rynku wtórnego.
@@ -348,9 +348,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/obrobka-zdjec-z-perspektywy-filozoficznej.html"/>
-        <id>https://contano.github.io/nodeblog/obrobka-zdjec-z-perspektywy-filozoficznej.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/4/postprodukcja-w-fotografii.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/obrobka-zdjec-z-perspektywy-filozoficznej.html"/>
+        <id>https://nodeblog.contano.xyz/obrobka-zdjec-z-perspektywy-filozoficznej.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/4/postprodukcja-w-fotografii.jpg" medium="image" />
             <category term="przemyślenia"/>
             <category term="postprodukcja"/>
             <category term="fotografia cyfrowa"/>
@@ -359,13 +359,13 @@
         <updated>2023-01-12T10:02:13+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/4/postprodukcja-w-fotografii.jpg" alt="postprodukcja w fotografii" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/4/postprodukcja-w-fotografii.jpg" alt="postprodukcja w fotografii" />
                     Jakoś tak mnie naszło, żeby podjąć temat postprodukcji w fotografii z filozoficznego punktu widzenia ;) Wzięło się to stąd,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/4/postprodukcja-w-fotografii.jpg" class="type:primaryImage" alt="postprodukcja w fotografii" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/4/postprodukcja-w-fotografii.jpg" class="type:primaryImage" alt="postprodukcja w fotografii" /></p>
                 
   <p>
     Jakoś tak mnie naszło, żeby podjąć temat postprodukcji w fotografii z filozoficznego punktu widzenia ;) Wzięło się to stąd, że zdarza mi się obserwować spór pomiędzy miłośnikami Photoshopa i tymi, którzy uważają, że obróbka zdjęć odbiera im ich prawdziwość. Zwolennicy fotografowania "na gotowo" często przywołują argument, że epoka cyfry zniszczyła prawdziwego ducha fotografii. Odwołują się także do technik analogowych, wskazując, że w epoce błon światłoczułych fotografia była czysta i prawdziwa, a obecnie jest straszliwym wytworem programów komputerowych ;) Osobiście fotografuję zarówno cyfrą jak i analogiem. Zdecydowanie więcej zdjęć robię jednak na filmach, które sam wywołuję, powiększam tradycyjnie w ciemni, a także digitalizuję. Przedstawię więc tutaj mój osobisty punk widzenia na kwestię postprodukcji i tak zwanej "prawdziwej, czystej fotografii na gotowo".
@@ -402,9 +402,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/digitalizacja-filmow-przewodnik.html"/>
-        <id>https://contano.github.io/nodeblog/digitalizacja-filmow-przewodnik.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/3/digitalizacja-filmow.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/digitalizacja-filmow-przewodnik.html"/>
+        <id>https://nodeblog.contano.xyz/digitalizacja-filmow-przewodnik.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/3/digitalizacja-filmow.jpg" medium="image" />
             <category term="poradniki"/>
             <category term="fotografia analogowa"/>
             <category term="digitalizacja filmów"/>
@@ -412,13 +412,13 @@
         <updated>2023-01-11T20:23:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/3/digitalizacja-filmow.jpg" alt="digitalizacja filmów" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/3/digitalizacja-filmow.jpg" alt="digitalizacja filmów" />
                     Skanować, czy nie skanować...? Oto jest pytanie ;) Pamiętam jak swego czasu na jednym z forów internetowych poświęconych fotografii&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/3/digitalizacja-filmow.jpg" class="type:primaryImage" alt="digitalizacja filmów" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/3/digitalizacja-filmow.jpg" class="type:primaryImage" alt="digitalizacja filmów" /></p>
                 
     <h2 id="skanowa-czy-nie-skanowa-oto-jest-pytanie-">
       Skanować, czy nie skanować...? Oto jest pytanie ;)
@@ -519,9 +519,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html"/>
-        <id>https://contano.github.io/nodeblog/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/2/jak-wywolac-film-c-41.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html"/>
+        <id>https://nodeblog.contano.xyz/jak-samodzielnie-wywolac-negatyw-kolorowy-w-warunkach-domowych.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/2/jak-wywolac-film-c-41.jpg" medium="image" />
             <category term="wywoływanie filmów"/>
             <category term="poradniki"/>
             <category term="fotografia analogowa"/>
@@ -529,13 +529,13 @@
         <updated>2023-01-11T17:45:02+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/2/jak-wywolac-film-c-41.jpg" alt="Wywoływanie filmu w procesie C-41" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/2/jak-wywolac-film-c-41.jpg" alt="Wywoływanie filmu w procesie C-41" />
                     O ile samodzielne wywoływanie negatywów czarno-białych uchodzi za stosunkowo łatwe, to wywołanie filmów kolorowych w warunkach domowych, w procesie&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/2/jak-wywolac-film-c-41.jpg" class="type:primaryImage" alt="Wywoływanie filmu w procesie C-41" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/2/jak-wywolac-film-c-41.jpg" class="type:primaryImage" alt="Wywoływanie filmu w procesie C-41" /></p>
                 
   <p>
     O ile samodzielne wywoływanie negatywów czarno-białych uchodzi za stosunkowo łatwe, to wywołanie filmów kolorowych w warunkach domowych, w procesie C-41 bywa uznawane za dość problematyczne. Osobiście uważam, że jeżeli potrafisz wywołać film czarno-biały, spokojnie poradzisz sobie z procesem C-41 w warunkach domowych. W odpowiedzi na spływające do mnie zapytania w tym temacie, przedstawiam poniżej instrukcję, jak to zrobić :)
@@ -612,9 +612,9 @@
         <author>
             <name>Jacek</name>
         </author>
-        <link href="https://contano.github.io/nodeblog/jak-wywolac-negatyw-czarno-bialy.html"/>
-        <id>https://contano.github.io/nodeblog/jak-wywolac-negatyw-czarno-bialy.html</id>
-        <media:content url="https://contano.github.io/nodeblog/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg" medium="image" />
+        <link href="https://nodeblog.contano.xyz/jak-wywolac-negatyw-czarno-bialy.html"/>
+        <id>https://nodeblog.contano.xyz/jak-wywolac-negatyw-czarno-bialy.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg" medium="image" />
             <category term="wywoływanie filmów"/>
             <category term="poradniki"/>
             <category term="fotografia analogowa"/>
@@ -622,13 +622,13 @@
         <updated>2023-01-12T17:05:43+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://contano.github.io/nodeblog/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg" alt="wywoływanie negatywu czarno-białego" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg" alt="wywoływanie negatywu czarno-białego" />
                     W związku z tym, że dostaję trochę zapytań od osób, które chciałby spróbować samodzielnie wywołać czarno-biały film, podaję prostą&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://contano.github.io/nodeblog/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg" class="type:primaryImage" alt="wywoływanie negatywu czarno-białego" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/1/jak-wywolac-fim-czarno-bialy-2.jpg" class="type:primaryImage" alt="wywoływanie negatywu czarno-białego" /></p>
                 
   <p>
     W związku z tym, że dostaję trochę zapytań od osób, które chciałby spróbować samodzielnie wywołać czarno-biały film, podaję prostą instrukcję :)
