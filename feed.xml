@@ -3,7 +3,7 @@
     <title>nodeblog</title>
     <link href="https://nodeblog.contano.xyz/feed.xml" rel="self" />
     <link href="https://nodeblog.contano.xyz" />
-    <updated>2023-01-13T13:06:04+01:00</updated>
+    <updated>2023-06-10T22:25:57+02:00</updated>
     <author>
         <name>Jacek</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://nodeblog.contano.xyz/o-mnie.html</id>
         <media:content url="https://nodeblog.contano.xyz/media/posts/9/o-mnie.jpg" medium="image" />
 
-        <updated>2023-01-13T13:06:04+01:00</updated>
+        <updated>2023-06-10T22:25:57+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nodeblog.contano.xyz/media/posts/9/o-mnie.jpg" alt="o mnie" />
@@ -34,7 +34,7 @@
   </p>
 
   <p>
-    mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką kreację i stale rosnące możliwości, wynikające z rozwoju technologicznego. Fascynuje mnie to, jak połączenie sztuki i technologii wpływa na otaczający nas świat w wielu jego wymiarach. Stworzyłem <strong>nodeblog</strong>, aby dzielić się wiedzą i przemyśleniami w tematach, które wciągnęły mnie na dobre :) Znajdziesz tutaj garść moich przemyśleń, poradniki i informacje o projektach, które realizuję. Serdecznie zapraszam Cię do czytania, oglądania, dyskusji i kontaktu.
+    mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką kreację i stale rosnące możliwości, wynikające z rozwoju technologicznego. Fascynuje mnie to, jak połączenie sztuki i technologii wpływa na otaczający nas świat w wielu jego wymiarach. Stworzyłem <strong>nodeblog</strong> i <strong>artlense</strong>, aby dzielić się wiedzą i przemyśleniami w tematach, które wciągnęły mnie na dobre :) oraz prezentować moje prace. Znajdziesz tutaj garść moich przemyśleń, poradniki i informacje o projektach, które realizuję. Serdecznie zapraszam Cię do czytania, oglądania, dyskusji i kontaktu.
   </p>
             ]]>
         </content>

@@ -14,7 +14,7 @@
             "url": "https://nodeblog.contano.xyz/o-mnie.html",
             "title": "O mnie",
             "summary": "Cześć, mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką&hellip;",
-            "content_html": "\n  <p>\n    Cześć,\n  </p>\n\n  <p>\n    mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką kreację i stale rosnące możliwości, wynikające z rozwoju technologicznego. Fascynuje mnie to, jak połączenie sztuki i technologii wpływa na otaczający nas świat w wielu jego wymiarach. Stworzyłem <strong>nodeblog</strong>, aby dzielić się wiedzą i przemyśleniami w tematach, które wciągnęły mnie na dobre :) Znajdziesz tutaj garść moich przemyśleń, poradniki i informacje o projektach, które realizuję. Serdecznie zapraszam Cię do czytania, oglądania, dyskusji i kontaktu.\n  </p>",
+            "content_html": "\n  <p>\n    Cześć,\n  </p>\n\n  <p>\n    mam na imię Jacek. Jestem człowiekiem wielu pasji i zainteresowań, które koncentrują się w przestrzeni łączącej naszą ludzką kreację i stale rosnące możliwości, wynikające z rozwoju technologicznego. Fascynuje mnie to, jak połączenie sztuki i technologii wpływa na otaczający nas świat w wielu jego wymiarach. Stworzyłem <strong>nodeblog</strong> i <strong>artlense</strong>, aby dzielić się wiedzą i przemyśleniami w tematach, które wciągnęły mnie na dobre :) oraz prezentować moje prace. Znajdziesz tutaj garść moich przemyśleń, poradniki i informacje o projektach, które realizuję. Serdecznie zapraszam Cię do czytania, oglądania, dyskusji i kontaktu.\n  </p>",
             "image": "https://nodeblog.contano.xyz/media/posts/9/o-mnie.jpg",
             "author": {
                 "name": "Jacek"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-01-13T11:54:03+01:00",
-            "date_modified": "2023-01-13T13:06:04+01:00"
+            "date_modified": "2023-06-10T22:25:57+02:00"
         },
         {
             "id": "https://nodeblog.contano.xyz/czy-sprzet-ktorym-fotografuje-ma-znaczenie.html",
