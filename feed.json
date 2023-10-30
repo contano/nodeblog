@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://nodeblog.contano.xyz/wernisaz-i-wystawa-fotografii-imagination-nodes.html",
+            "url": "https://nodeblog.contano.xyz/wernisaz-i-wystawa-fotografii-imagination-nodes.html",
+            "title": "Wernisaż i wystawa fotografii &quot;imagination nodes&quot;",
+            "summary": "Łącząc ze sobą tradycyjnie rozumianą fotografię cyfrową z przetwarzaniem obrazu wykorzystującym sztuczną inteligencję, wszedłem w fascynujący obszar kreacji, który&hellip;",
+            "content_html": "\n  <p>\n    Łącząc ze sobą tradycyjnie rozumianą fotografię cyfrową z przetwarzaniem obrazu wykorzystującym sztuczną inteligencję, wszedłem w fascynujący obszar kreacji, który zaowocował powstaniem projektu „imagination nodes”.\n  </p>\n\n    <h2 id=\"zapraszam-na-wernisaz-i-wystawe-moich-prac\">\n      Zapraszam na wernisaż i wystawę moich prac\n    </h2>\n\n  <p>\n    Serdecznie zapraszam na wernisaż mojej wystawy, który odbędzie się <strong>14 listopada 2023 roku o godzinie 17:00 w bibliotece miejskiej w Suchedniowie, przy ul. Kościelnej 3</strong>.\n  </p>\n\n  <p>\n    Podczas spotkaniu autorskiego zaprezentuję powstałe prace i opowiem o procesie twórczym.\n  </p>",
+            "image": "https://nodeblog.contano.xyz/media/posts/10/imagination-nodes-wystawa.jpg",
+            "author": {
+                "name": "Jacek"
+            },
+            "tags": [
+                   "wydarzenia"
+            ],
+            "date_published": "2023-10-30T17:18:19+01:00",
+            "date_modified": "2023-10-30T18:35:15+01:00"
+        },
+        {
             "id": "https://nodeblog.contano.xyz/o-mnie.html",
             "url": "https://nodeblog.contano.xyz/o-mnie.html",
             "title": "O mnie",

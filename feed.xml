@@ -3,12 +3,51 @@
     <title>nodeblog</title>
     <link href="https://nodeblog.contano.xyz/feed.xml" rel="self" />
     <link href="https://nodeblog.contano.xyz" />
-    <updated>2023-06-29T14:40:44+02:00</updated>
+    <updated>2023-10-30T18:35:15+01:00</updated>
     <author>
         <name>Jacek</name>
     </author>
     <id>https://nodeblog.contano.xyz</id>
 
+    <entry>
+        <title>Wernisaż i wystawa fotografii &quot;imagination nodes&quot;</title>
+        <author>
+            <name>Jacek</name>
+        </author>
+        <link href="https://nodeblog.contano.xyz/wernisaz-i-wystawa-fotografii-imagination-nodes.html"/>
+        <id>https://nodeblog.contano.xyz/wernisaz-i-wystawa-fotografii-imagination-nodes.html</id>
+        <media:content url="https://nodeblog.contano.xyz/media/posts/10/imagination-nodes-wystawa.jpg" medium="image" />
+            <category term="wydarzenia"/>
+
+        <updated>2023-10-30T18:35:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nodeblog.contano.xyz/media/posts/10/imagination-nodes-wystawa.jpg" alt="imagination nodes - wystawa foto grafiki" />
+                    Łącząc ze sobą tradycyjnie rozumianą fotografię cyfrową z przetwarzaniem obrazu wykorzystującym sztuczną inteligencję, wszedłem w fascynujący obszar kreacji, który&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/10/imagination-nodes-wystawa.jpg" class="type:primaryImage" alt="imagination nodes - wystawa foto grafiki" /></p>
+                
+  <p>
+    Łącząc ze sobą tradycyjnie rozumianą fotografię cyfrową z przetwarzaniem obrazu wykorzystującym sztuczną inteligencję, wszedłem w fascynujący obszar kreacji, który zaowocował powstaniem projektu „imagination nodes”.
+  </p>
+
+    <h2 id="zapraszam-na-wernisaz-i-wystawe-moich-prac">
+      Zapraszam na wernisaż i wystawę moich prac
+    </h2>
+
+  <p>
+    Serdecznie zapraszam na wernisaż mojej wystawy, który odbędzie się <strong>14 listopada 2023 roku o godzinie 17:00 w bibliotece miejskiej w Suchedniowie, przy ul. Kościelnej 3</strong>.
+  </p>
+
+  <p>
+    Podczas spotkaniu autorskiego zaprezentuję powstałe prace i opowiem o procesie twórczym.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>O mnie</title>
         <author>
