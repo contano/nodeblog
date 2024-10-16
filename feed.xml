@@ -3,7 +3,7 @@
     <title>nodeblog</title>
     <link href="https://nodeblog.contano.xyz/feed.xml" rel="self" />
     <link href="https://nodeblog.contano.xyz" />
-    <updated>2024-10-16T20:09:34+02:00</updated>
+    <updated>2024-10-16T22:47:08+02:00</updated>
     <author>
         <name>Contano</name>
     </author>
@@ -52,131 +52,23 @@
     Nie będę zagłębiał się tutaj w charakterystykę techniczną Viltroxa. W Internecie można znaleźć dobrze opracowane i wyczerpujące informacje na ten temat. Zapraszam natomiast do obejrzenia zdjęć, które zrobiłem tym obiektywem.
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
+    <h3 id="kliknij-w-ponizsze-zdjecia-aby-przejsc-do-galerii-w-ktorych-znajdziesz-fotografie-zrobione-przeze-mnie-viltroxem">
+      Kliknij w poniższe zdjęcia, aby przejść do galerii, w których znajdziesz fotografie zrobione przeze mnie Viltroxem.
+    </h3>
+
+    <figure class="post__image post__image--wide">
+      <a href="https://fotodrop.myportfolio.com/swieto-blota-2024-tradycja-i-wspolnota" target="_blank">
+        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/swieto-blota-2024.jpg" height="1365" width="2048" alt="Święto Błota 2024 - Tradycja i Wspólnota"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://nodeblog.contano.xyz/media/posts/12/responsive/swieto-blota-2024-xs.jpg 300w ,https://nodeblog.contano.xyz/media/posts/12/responsive/swieto-blota-2024-sm.jpg 480w ,https://nodeblog.contano.xyz/media/posts/12/responsive/swieto-blota-2024-md.jpg 768w ,https://nodeblog.contano.xyz/media/posts/12/responsive/swieto-blota-2024-xl.jpg 1200w ,https://nodeblog.contano.xyz/media/posts/12/responsive/swieto-blota-2024-xxl.jpg 1600w ,https://nodeblog.contano.xyz/media/posts/12/responsive/swieto-blota-2024-xxxl.jpg 2560w">
       </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-2.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-2-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-3.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-3-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-4.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-4-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-5.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-5-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-6.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-6-thumbnail.jpg" height="1152" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-7.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-7-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-8.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-8-thumbnail.jpg" height="1152" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-9.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-9-thumbnail.jpg" height="1152" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-10.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-10-thumbnail.jpg" height="1152" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-11.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-11-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-12.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-12-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-13.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-13-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-14.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-14-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-15.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-15-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-16.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-16-thumbnail.jpg" height="1152" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-17.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-17-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-18.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-18-thumbnail.jpg" height="1152" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-19.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-19-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-20.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/gallery/viltrox-27mm-AF-20-thumbnail.jpg" height="512" width="768" alt="Viltrox 27mm F1.2 PRO XF" >
-      </a>
-      
+      <figcaption>Święto Błota 2024 - Tradycja i Wspólnota</figcaption>
     </figure>
-    </div>
-  </div>
 
-    <h2 id="wiecej-zdjec-zrobionych-viltroxem-znajdziesz-w-moich-fotorelacjach">
-      Więcej zdjęć zrobionych Viltroxem znajdziesz w moich fotorelacjach.
-    </h2>
-
-    <h3 id="swieto-blota-2024-tradycja-i-wspolnota" class="align-center">
-      <a href="https://fotodrop.myportfolio.com/swieto-blota-2024-tradycja-i-wspolnota">
-      Święto Błota 2024 - Tradycja i Wspólnota
+    <figure class="post__image post__image--wide">
+      <a href="https://fotodrop.myportfolio.com/inscenizacja-wiejskiego-wesela-w-zagrodzie-czernikiewiczow-w-bodzentynie" target="_blank">
+        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/12/wesele-bodzentyn-2024.jpg" height="1365" width="2048" alt="Inscenizacja Wesela w Zagrodzie Czernikiewiczów"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://nodeblog.contano.xyz/media/posts/12/responsive/wesele-bodzentyn-2024-xs.jpg 300w ,https://nodeblog.contano.xyz/media/posts/12/responsive/wesele-bodzentyn-2024-sm.jpg 480w ,https://nodeblog.contano.xyz/media/posts/12/responsive/wesele-bodzentyn-2024-md.jpg 768w ,https://nodeblog.contano.xyz/media/posts/12/responsive/wesele-bodzentyn-2024-xl.jpg 1200w ,https://nodeblog.contano.xyz/media/posts/12/responsive/wesele-bodzentyn-2024-xxl.jpg 1600w ,https://nodeblog.contano.xyz/media/posts/12/responsive/wesele-bodzentyn-2024-xxxl.jpg 2560w">
       </a>
-    </h3>
-
-    <h3 id="inscenizacja-wesela-w-zagrodzie-czernikiewiczow" class="align-center">
-      <a href="https://fotodrop.myportfolio.com/inscenizacja-wiejskiego-wesela-w-zagrodzie-czernikiewiczow-w-bodzentynie">
-      Inscenizacja Wesela w Zagrodzie Czernikiewiczów
-      </a>
-    </h3>
-
-  <p>
-    <br>
-  </p>
+      <figcaption>Inscenizacja Wesela w Zagrodzie Czernikiewiczów</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
@@ -216,290 +108,16 @@
 <br>Nie będę tutaj prezentował charakterystyki technicznej aparatu, ani technologii FOVEON X3, ponieważ Internet jest pełen wyczerpujących informacji na ten temat i można je bez problemu znaleźć w sieci. Dla zainteresowanych podaję link do testu Sigmy DP1, z którym można zapoznać się <a href="https://www.optyczne.pl/70.1-Test_aparatu-Sigma_DP1-Wst%C4%99p.html" target="_blank"><strong></strong></a><strong><a href="https://www.optyczne.pl/70.1-Test_aparatu-Sigma_DP1-Wst%C4%99p.html" target="_blank">TUTAJ</a></strong>.
   </p>
 
-    <h3 id="zapraszam-do-obejrzenia-galerii-zdjec-zrobionych-przeze-mnie-tym-aparatem">
-      Zapraszam do obejrzenia galerii zdjęć zrobionych przeze mnie tym aparatem :)
+    <h3 id="kliknij-w-ponizsze-zdjecie-aby-przejsc-do-galerii-w-ktorej-znajdziesz-fotografie-zrobione-przeze-mnie-sigma-dp1">
+      Kliknij w poniższe zdjęcie, aby przejść do galerii, w której znajdziesz fotografie zrobione przeze mnie Sigmą DP1.
     </h3>
 
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
+    <figure class="post__image post__image--wide">
+      <a href="https://fotodrop.myportfolio.com/foveon-x3-sigma-dp1">
+        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/foveon-sigma-dp1.jpg" height="1365" width="2048" alt="FOVEON X3 - SIGMA DP1"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://nodeblog.contano.xyz/media/posts/11/responsive/foveon-sigma-dp1-xs.jpg 300w ,https://nodeblog.contano.xyz/media/posts/11/responsive/foveon-sigma-dp1-sm.jpg 480w ,https://nodeblog.contano.xyz/media/posts/11/responsive/foveon-sigma-dp1-md.jpg 768w ,https://nodeblog.contano.xyz/media/posts/11/responsive/foveon-sigma-dp1-xl.jpg 1200w ,https://nodeblog.contano.xyz/media/posts/11/responsive/foveon-sigma-dp1-xxl.jpg 1600w ,https://nodeblog.contano.xyz/media/posts/11/responsive/foveon-sigma-dp1-xxxl.jpg 2560w">
       </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-2.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-2-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-3.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-3-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-4.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-4-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-5.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-5-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-6.jpg" data-size="2048x1364">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-6-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-7.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-7-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-8.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-8-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-9.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-9-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-10.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-10-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-11.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-11-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-12.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-12-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-13.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-13-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-14.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-14-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-15.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-15-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-16.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-16-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-17.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-17-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-18.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-18-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-19.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-19-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-20.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-20-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-21.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-21-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-22.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-22-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-23.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-23-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-24.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-24-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-25.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-25-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-26.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-26-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-27.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-27-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-28.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-28-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-29.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-krk-29-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-2.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-2-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-3.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-3-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-4.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-4-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-5.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-5-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-6.jpg" data-size="2048x1364">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-6-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-7.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-7-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-8.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-8-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-9.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-9-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-10.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-10-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-11.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-11-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-12.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-12-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-13.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-13-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-14.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-14-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-15.jpg" data-size="1365x2048">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-15-thumbnail.jpg" height="1152" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-16.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-16-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-17.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-17-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-18.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-18-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-19.jpg" data-size="2048x1366">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-19-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-20.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-20-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-21.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-kielce-21-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-2.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-2-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-3.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-3-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-4.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-4-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-5.jpg" data-size="2048x1365">
-        <img loading="lazy" src="https://nodeblog.contano.xyz/media/posts/11/gallery/foveon-sigma-dp1-it-5-thumbnail.jpg" height="512" width="768" alt="Foveon X3 - Sigma DP1" >
-      </a>
-      
+      <figcaption>FOVEON X3 - SIGMA DP1</figcaption>
     </figure>
-    </div>
-  </div>
             ]]>
         </content>
     </entry>
