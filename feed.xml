@@ -3,7 +3,7 @@
     <title>nodeblog</title>
     <link href="https://nodeblog.contano.xyz/feed.xml" rel="self" />
     <link href="https://nodeblog.contano.xyz" />
-    <updated>2024-10-18T19:14:20+02:00</updated>
+    <updated>2024-10-18T19:40:57+02:00</updated>
     <author>
         <name>Contano</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://nodeblog.contano.xyz/panasonic-lumix-lx100-moj-ulubiony-aparat-na-wycieczki.html"/>
         <id>https://nodeblog.contano.xyz/panasonic-lumix-lx100-moj-ulubiony-aparat-na-wycieczki.html</id>
-        <media:content url="https://nodeblog.contano.xyz/media/posts/14/Panasonic-Lumix-LX100-1.jpg" medium="image" />
+        <media:content url="https://nodeblog.contano.xyz/media/posts/14/panasonic-lumix-lx100.jpeg" medium="image" />
             <category term="wybrane wpisy"/>
             <category term="recenzje sprzętu fotograficznego"/>
             <category term="fotografia cyfrowa"/>
@@ -24,13 +24,13 @@
         <updated>2024-10-18T18:30:45+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nodeblog.contano.xyz/media/posts/14/Panasonic-Lumix-LX100-1.jpg" alt="Panasonic Lumix LX100" />
+                        <img src="https://nodeblog.contano.xyz/media/posts/14/panasonic-lumix-lx100.jpeg" alt="Panasonic Lumix LX100" />
                     Podróżuję głównie z rodziną. Spędzamy czas bardzo aktywnie. Dużo zwiedzamy. Lubimy piesze wędrówki. Każda podróż jest nieodzownie związana z&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nodeblog.contano.xyz/media/posts/14/Panasonic-Lumix-LX100-1.jpg" class="type:primaryImage" alt="Panasonic Lumix LX100" /></p>
+                    <p><img src="https://nodeblog.contano.xyz/media/posts/14/panasonic-lumix-lx100.jpeg" class="type:primaryImage" alt="Panasonic Lumix LX100" /></p>
                 
   <p>
     Podróżuję głównie z rodziną. Spędzamy czas bardzo aktywnie. Dużo zwiedzamy. Lubimy piesze wędrówki. Każda podróż jest nieodzownie związana z pakowaniem plecaków, których gabaryty i wagę staramy się trzymać w ryzach :)
